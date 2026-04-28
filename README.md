@@ -15,9 +15,7 @@ This repo contains my solutions to various LeetCode problems, organized for clar
 
 ## 🛠️ Languages Used
 
-* Python 🐍
-* (Add others if you use them: C++, Java, etc.)
-
+* Java
 ---
 
 ## 📂 Repository Structure
