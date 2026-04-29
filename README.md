@@ -60,8 +60,8 @@ Each folder contains:
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| Easy       | XX              |
-| Medium     | XX              |
+| Easy       | 04              |
+| Medium     | 01              |
 | Hard       | XX              |
 
 *(Updated regularly!)*
