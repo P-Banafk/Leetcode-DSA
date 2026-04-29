@@ -8,7 +8,7 @@ This repo contains my solutions to various LeetCode problems, organized for clar
 ## 🚀 About
 
 * 💡 Practicing DSA concepts through LeetCode problems
-* 🧠 Focus on improving problem-solving and coding skills
+* 🧠 Focus on improving problem solving and coding skills
 * 📈 Tracking progress and consistency over time
 
 ---
